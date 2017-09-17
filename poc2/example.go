@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/progrium/duplex/poc2/duplex"
+	"github.com/michlabs/duplex/poc2/duplex"
 )
 
 func main() {
