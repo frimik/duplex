@@ -6,7 +6,7 @@ import (
 	"reflect"
 	"sync"
 
-	"github.com/michlabs/duplex/poc2/duplex"
+	"github.com/frimik/duplex/poc2/duplex"
 )
 
 type Peer struct {
